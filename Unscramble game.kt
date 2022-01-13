@@ -151,6 +151,13 @@ class GameFragment : Fragment() {
     }
 }
 
+
+
+
+
+
+
+
 GameViewModel.kt
 
 import android.util.Log
